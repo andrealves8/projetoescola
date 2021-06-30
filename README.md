@@ -43,7 +43,8 @@
     </lu></p>
     
 <h3>Contatos</h3>
-André Alves: andrealves-tec@hotmail.com
+
+andrealves-tec@hotmail.com
 
 Linkedin: https://www.linkedin.com/in/andrealves8/
 
