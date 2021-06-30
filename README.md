@@ -42,7 +42,7 @@
 <li>Não é permitido a utilização de outras funções além do main().</li>
     </lu></p>
     
-Contatos
+<h3>Contatos</h3>
 André Alves: andrealves-tec@hotmail.com
 
 Linkedin: https://www.linkedin.com/in/andrealves8/
