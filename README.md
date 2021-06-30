@@ -41,19 +41,13 @@
 <li>Não pode utilizar estruturas de armazenamento, como vetores, matrizes ou structs</li>
 <li>Não é permitido a utilização de outras funções além do main().</li>
     </lu></p>
+    
+Contatos
+André Alves: andrealves-tec@hotmail.com
 
+Linkedin: https://www.linkedin.com/in/andrealves8/
 
-
-
-
-
-
-​    
-
-
-​    
-
-
+Linkedin: https://github.com/andrealves8
 
 
 
